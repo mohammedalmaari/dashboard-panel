@@ -1,9 +1,12 @@
 # Project setup instructions
+```bash
 1- npm create vite@latest my-app --template react-ts
 2- cd my-app
 3- npm install
 
 # Folder structure explanation
+
+```bash
 DASHOBARD-PANAL/
 ├── node_modules/           # مجلد الحزم المثبتة (npm/yarn)
 ├── public/                 # الملفات العامة مثل الصور والفافيكون
